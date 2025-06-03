@@ -62,4 +62,4 @@ git clone https://github.com/liwenze/goim.git
 cd goim
 
 # 启动服务
-go run cmd/main.go
+go run main.go
